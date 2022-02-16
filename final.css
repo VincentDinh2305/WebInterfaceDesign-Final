@@ -1,0 +1,41 @@
+﻿body {
+	border-style: none;
+	border-color: #003300;
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	background-image: url('images/background.jpg');
+}
+h1 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	background-image: url('images/logo.jpg');
+	background-repeat: no-repeat;
+	padding-left: 250px;
+	height: 200px;
+	color: #003300;
+	background-color: #B5CB20;
+	font-size: xx-large;
+	margin: auto;
+}
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	border: medium solid #003300;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #C0C0C0;
+	padding: 10px;
+}
+h3 {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	font-size: 14px;
+	color: #003300;
+	background-color: #B5CB20;
+}
+footer {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #003300;
+	font-size: large;
+}
